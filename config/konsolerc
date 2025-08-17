@@ -1,0 +1,17 @@
+MenuBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=mine.profile
+
+[General]
+ConfigVersion=1
+
+[SplitView]
+SplitViewVisibility=AlwaysHideSplitHeader
+
+[TabBar]
+TabBarPosition=Bottom
+TabBarVisibility=AlwaysHideTabBar
+
+[UiSettings]
+ColorScheme=Breeze Dark

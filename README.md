@@ -1,4 +1,4 @@
-# ***My setup**
+# **My setup**
 This is my current setup, quite basic, but I'm still learning and getting used to everything. I will eventually explore alternatives to find what I like and just for the sake of it cause obviously I need a hobby.
 
 - OS: Arch Linux

@@ -1,9 +1,12 @@
 [Activities][LastVirtualDesktop]
-0cf1fbd0-4575-47a2-b8f2-85afa6af42d6=e8802ec0-5069-49a4-9079-e587b4853856
+0cf1fbd0-4575-47a2-b8f2-85afa6af42d6=08f1f5ba-1bed-4617-8f03-a0e0c453c13c
 
 [Desktops]
 Id_1=e8802ec0-5069-49a4-9079-e587b4853856
-Number=1
+Id_2=f3edf63d-a7d3-45d4-a76e-d89bae53bb30
+Id_3=08f1f5ba-1bed-4617-8f03-a0e0c453c13c
+Id_4=d160d68a-10ab-4e2d-a0b0-aec81e953e33
+Number=4
 Rows=1
 
 [NightColor]
@@ -14,16 +17,24 @@ NightTemperature=2300
 shakecursorEnabled=false
 
 [TabBox]
-ApplicationsMode=1
 OrderMinimizedMode=1
 
 [Tiling]
 padding=4
 
+[Tiling][08f1f5ba-1bed-4617-8f03-a0e0c453c13c][9448bcaf-99c1-423b-8030-5388494a4e04]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][20ecd33a-932e-4567-bc2b-d8973472e441][9448bcaf-99c1-423b-8030-5388494a4e04]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][d160d68a-10ab-4e2d-a0b0-aec81e953e33][9448bcaf-99c1-423b-8030-5388494a4e04]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][e8802ec0-5069-49a4-9079-e587b4853856][9448bcaf-99c1-423b-8030-5388494a4e04]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][f3edf63d-a7d3-45d4-a76e-d89bae53bb30][9448bcaf-99c1-423b-8030-5388494a4e04]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Wayland]

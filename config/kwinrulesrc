@@ -19,8 +19,16 @@ wmclass=vlc
 wmclassmatch=1
 
 [General]
-count=3
-rules=38852b0d-43be-4d46-b71f-7f3ecb289cbf,75dcb9a4-4b99-4a1a-a29e-a5a1a1548fc8,fb17a6be-ca08-4dde-b06b-cadaa2772f25
+count=4
+rules=e86b0f0d-8bd3-4eaa-9c53-16df19f741a4,38852b0d-43be-4d46-b71f-7f3ecb289cbf,75dcb9a4-4b99-4a1a-a29e-a5a1a1548fc8,fb17a6be-ca08-4dde-b06b-cadaa2772f25
+
+[e86b0f0d-8bd3-4eaa-9c53-16df19f741a4]
+Description=Application settings for discord-stable
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=discord-stable
+wmclassmatch=1
 
 [fb17a6be-ca08-4dde-b06b-cadaa2772f25]
 Description=Application settings for discord

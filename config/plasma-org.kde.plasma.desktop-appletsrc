@@ -53,7 +53,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][20][Configuration]
-PreloadWeight=60
+PreloadWeight=65
 popupHeight=450
 popupWidth=560
 
@@ -76,7 +76,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][26][Configuration][General]
-launchers=applications:microsoft-edge.desktop,preferred://filemanager,applications:discord.desktop,applications:com.viber.Viber.desktop,applications:spotify.desktop,applications:org.kde.konsole.desktop
+launchers=
 taskMaxWidth=Narrow
 
 [Containments][2][Applets][28]
@@ -196,6 +196,14 @@ totalSensors=["cpu/all/usage"]
 immutability=1
 plugin=org.kde.plasma.pager
 
+[Containments][2][Applets][4][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Applets][4][Configuration][General]
+displayedText=Number
+showWindowIcons=true
+
 [Containments][2][Applets][7]
 activityId=
 formfactor=0
@@ -240,10 +248,9 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][2][Applets][7][Applets][18][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][2][Applets][7][Applets][18][Configuration][General]
-currentTab=streams
 migrated=true
 
 [Containments][2][Applets][7][Applets][19][Configuration]
@@ -254,7 +261,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][2][Applets][7][Applets][22][Configuration]
-PreloadWeight=72
+PreloadWeight=56
 
 [Containments][2][Applets][7][Applets][22][Configuration][General]
 showPercentage=true
@@ -274,7 +281,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][2][Applets][7][Applets][25][Configuration]
-PreloadWeight=39
+PreloadWeight=44
 
 [Containments][2][Applets][7][Applets][27]
 immutability=1
